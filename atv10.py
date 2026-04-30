@@ -8,4 +8,4 @@ larg = float(larg)
 
 area = alt * larg
 
-print(f"A área desse retângulo é: {area}")
+print(f"A área desse retângulo é: {area}!")
